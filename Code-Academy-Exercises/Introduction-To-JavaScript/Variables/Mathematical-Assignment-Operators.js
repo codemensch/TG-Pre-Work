@@ -18,5 +18,5 @@ console.log('The value of multiplyMe:', multiplyMe);
 console.log('The value of quarterMe:', quarterMe);
 
 /*Mathematical assignment operators are a way to update a variable while
-performing a mathematical operation. The four operators are +=, -=, *=, and
+performing a mathematical operation. The first four operators are +=, -=, *=, and
 /=.*/
