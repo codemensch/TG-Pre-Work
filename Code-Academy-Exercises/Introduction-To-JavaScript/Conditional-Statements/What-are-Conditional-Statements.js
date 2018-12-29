@@ -1,0 +1,2 @@
+/*A conditional statement in code checks for a specific condition and performs
+ a certain task if that condition is met.*/
