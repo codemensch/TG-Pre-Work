@@ -12,4 +12,4 @@ console.log(newSum);
 function as an argument and an optional accumulator initialization argument. The
 callback function takes two arguments, an accumulator parameter and a currentValue
 parameter and sums the accumulator and the current value until all elements have been
-iterated and summed. */
+iterated and summed.*/
