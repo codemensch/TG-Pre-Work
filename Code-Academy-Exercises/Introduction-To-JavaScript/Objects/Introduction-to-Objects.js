@@ -1,0 +1,2 @@
+/*Objects are one of the seven data types in JavaScript. Objects can store data
+and functionality and model real world things. */
