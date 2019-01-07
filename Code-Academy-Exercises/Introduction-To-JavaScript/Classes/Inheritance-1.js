@@ -1,0 +1,4 @@
+/*Sometimes there will be the need to have multiple classes but some classes
+will share a number of the same properties. In this case we can create a parent
+class that includes all of the properties and methods that are shared by the child
+classes. Thus the child classes will inherit properties from the parent class.*/
