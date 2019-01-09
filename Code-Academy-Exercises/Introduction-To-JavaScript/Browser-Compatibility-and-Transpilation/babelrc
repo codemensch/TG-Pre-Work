@@ -1,0 +1,8 @@
+{
+  "presets": ["env"]
+}
+
+/*After installing all the node packages, we need to specify which version of JavaScript
+we start with in our file by defining a preset in .babelrc. .babelrc is created by
+running touch .babelrc in the root directory. Finally we open .babelrc and place the preset
+object. */
