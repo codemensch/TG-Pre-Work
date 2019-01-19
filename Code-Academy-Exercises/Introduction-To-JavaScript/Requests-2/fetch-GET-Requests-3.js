@@ -32,7 +32,7 @@ const displaySuggestions = (event) => {
 
 submit.addEventListener('click', displaySuggestions);
 
-/*In our getSuggestions function, we are concatenating the url of the endpoint, the
+/*In our getSuggestions() function, we are concatenating the url of the endpoint, the
 query parameter, which narrows down the search results, and the word inputed by the user
 used to narrow the search. This then is used by the fetch() and then() methods to
 check for responses and errors and return the response.*/
