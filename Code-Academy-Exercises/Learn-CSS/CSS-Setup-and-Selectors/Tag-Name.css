@@ -1,0 +1,8 @@
+p {
+      font-family: Arial;
+    }
+
+h1 {color: maroon;}
+
+/*You can select an html tag to style by using the html tag's name followed by curly
+braces. CSS styles are then adde between the curly braces.*/
