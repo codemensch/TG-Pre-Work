@@ -1,0 +1,6 @@
+p {
+      font-family: Arial;
+    }
+
+  /*CSS best practice is to avoid mixing types of code (css/html) and placing styles
+  in their own file. CSS files have a .css extension.*/
