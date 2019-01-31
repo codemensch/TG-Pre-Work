@@ -1,0 +1,14 @@
+p {
+      font-family: Arial;
+    }
+
+h1 {color: maroon;
+    }
+
+.title {color: teal;
+    }
+
+/*We can also select an element by its class attribute. Whatever value is given to
+an elements class attribute can be selected by css by prepending the class name with
+a period. Selecting with class allows for selecting multiple elements with the same
+class name.*/
