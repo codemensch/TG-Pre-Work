@@ -1,0 +1,35 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time{
+  text-color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+/*If an element needs to have the styles of two or more selectors, we can chain the
+selectors together with a dot to create a new selector. Each unique combination of selectors
+is a specific selector its self.*/
